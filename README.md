@@ -78,6 +78,7 @@ This project was tested with **EDA Playground** and **Verilator**.
 **EDA Playground:**
 1. Copy files into EDA Playground (SystemVerilog + UVM 1.2)
 2. Select `Run` and open EPWave for waveform view
+<img width="1813" height="675" alt="image" src="https://github.com/user-attachments/assets/eca6b1c7-c61f-4f9c-a5ff-426d71abe81f" />
 
 **Verilator (local run):**
 ```bash
@@ -87,3 +88,4 @@ make -C obj_dir -f Vtb_top.mk
 
 
 <img width="1826" height="687" alt="image" src="https://github.com/user-attachments/assets/4705d5bd-21cd-4a57-ad40-d38eecba2ce0" />
+<img width="1813" height="675" alt="image" src="https://github.com/user-attachments/assets/04dbbe69-0e9e-4dac-865e-9ec5387ea384" />
